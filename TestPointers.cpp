@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void assignPointers()
+void assignVariables()
 {
    int *p1, *p2;
    p1 = new int;
@@ -22,7 +22,7 @@ void assignPointers()
  30 30
  -----------------------------------*/
 
-void assignVariables()
+void assignPointers()
 {
    int *p1, *p2;
    p1 = new int;
